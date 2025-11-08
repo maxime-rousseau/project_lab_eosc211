@@ -1,4 +1,4 @@
-## EOSC211 week 10 project lab1
+## EOSC211 week 10 project part1 - 3
 this repository contains maxime and benson work for the project in eosc211, focusing on problems in the motion of spacecaft gravity assists
 ## Files
 - including pdf for introducton 
